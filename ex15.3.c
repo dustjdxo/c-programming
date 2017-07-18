@@ -59,6 +59,7 @@ int keyboard(int money)
 	return money;
 }
 
+
 //int mouse()
 //{
 //
